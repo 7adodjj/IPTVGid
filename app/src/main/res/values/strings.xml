@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Гид</string>
+    <string name="hint_url">URL плейлиста M3U</string>
+    <string name="btn_load">Загрузить</string>
+    <string name="nav_header_subtitle">Группы каналов</string>
+    <string name="no_epg">Нет данных EPG для этого канала</string>
+    <string name="search_hint">Поиск каналов…</string>
+    <string name="all_channels">Все каналы</string>
+    <string name="loading">Загрузка…</string>
+    <string name="epg_now">Сейчас</string>
+    <string name="epg_next">Далее</string>
+</resources>

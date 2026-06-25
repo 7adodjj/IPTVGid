@@ -1,0 +1,22 @@
+# Android/Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# App build outputs
+app/build/
+app/release/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Signing configs (НИКОГДА не публикуй!)
+keystore.properties
+signing.properties
