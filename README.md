@@ -4,7 +4,7 @@ Android-приложение для просмотра программы пер
 ## 📸 Скриншоты
 
 <p align="center">
-  <img src="screenshots/sk.jpg" width="300">
+  <img src="sk.jpg" width="300">
 </p>
 ## 📱 Возможности
 
