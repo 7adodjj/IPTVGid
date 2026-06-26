@@ -35,7 +35,7 @@ Android-приложение для просмотра программы пер
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/IPTVGid.git
+   git clone https://github.com/7adodjj/IPTVGid.git
    ```
 2. Откройте проект в **Android Studio**
 3. Нажмите **Sync Now**
