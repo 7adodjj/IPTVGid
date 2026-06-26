@@ -1,7 +1,11 @@
 # 📺 IPTV Гид
 
 Android-приложение для просмотра программы передач (EPG) IPTV-каналов.
+## 📸 Скриншоты
 
+<p align="center">
+  <img src="screenshots/sk.jpg" width="300">
+</p>
 ## 📱 Возможности
 
 - Загрузка M3U/M3U8 плейлистов по URL
